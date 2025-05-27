@@ -5,7 +5,7 @@ Contains all the leetcode practice problems categorized as easy, medium and hard
 git pull origin main  
 mkdir -p E/28_NewQuestion  
 touch E/28_NewQuestion/solution.py  
-(Edit your solution.py file now to add code) 
+(Edit your solution.py file now to add code)  
 git add E/28_NewQuestion/solution.py  
 git commit -m "Add solution for question 28 in E"  
 git push origin main
