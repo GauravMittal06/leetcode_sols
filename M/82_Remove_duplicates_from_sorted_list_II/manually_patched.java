@@ -1,4 +1,4 @@
-class Solution { //just works (somehow)
+class Solution { //just works (somehow) -- BRUTE FORCE
     public ListNode deleteDuplicates(ListNode head) {
         if(head==null || head.next==null)
         {
